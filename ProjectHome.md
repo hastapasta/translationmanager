@@ -1,0 +1,1 @@
+This webapp saves translations performed by a use through google translate and then creates a set of flashcards based off of the saved translations.
